@@ -6,7 +6,7 @@ import math
 led = RGBLED(red=17, green=27, blue=22)  # common cathode
 
 # Duration in seconds for a full pulsating cycle
-duration = 5
+duration = 20
 # Number of steps for smoothness
 steps = 100
 # Time to sleep between steps
